@@ -21,7 +21,7 @@ repository               : "cym-network/cym-network.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.png"
   name             : "Yimei Chen"
   #pronouns         : # example: "she/her"  
   bio              : "Ph.D. student, Tsinghua University"
