@@ -56,4 +56,14 @@ Teaching Experience
   
 - Wireless and Mobile Network Security 2023, THU (AY 2023/2024, Semester 2), Teaching Assistant
 
+Selected Honors and Awards
+======
+- Outstanding Graduate of Beijing,2022
+  
+- Outstanding Graduate of Beijing University of Posts and Telecommunications, 2022
+
+- The First Price Scholarship of Beijing University of Posts and Telecommunications, 2020 and 2021
+
+- National Scholarship, 2019
+
   
