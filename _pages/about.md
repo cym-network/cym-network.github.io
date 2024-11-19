@@ -24,6 +24,12 @@ Publications
   Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, **Yimei Chen**, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
   The 30th Annual International Conference on Mobile Computing and Networking **(MobiCom'24)**
+
+- ### [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA)
+  
+  Wei Liu, Yuanjie Li, Hewu Li, **Yimei Chen**, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+
+  The 45th IEEE Symposium on Security and Privacy (S&P'24).
   
 - ### [A First Look at Networking-Aware LEO Maneuvers](https://dl.acm.org/doi/10.1145/3614204.3616107)
 
@@ -58,7 +64,7 @@ Teaching Experience
 
 Selected Honors and Awards
 ======
-- Outstanding Graduate of Beijing,2022
+- Outstanding Graduate of Beijing, 2022
   
 - Outstanding Graduate of Beijing University of Posts and Telecommunications, 2022
 
