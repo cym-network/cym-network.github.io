@@ -13,10 +13,40 @@ Previously, I received my Bachelor’s degree in Communications Engineering from
 
 Publications
 ======
-[Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885), HOTNETS 2024
+- ## [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885)
 
-<u>Yimei Chen*</u>, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
+  **Yimei Chen***, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
 
-[Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362), MobiCom 2024
+  The 23rd ACM Workshop on Hot Topics in Networks **(HOTNETS'24)**
 
-Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, <u>Yimei Chen</u>, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+- ## [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362)
+
+  Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, **Yimei Chen**, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+
+  The 30th Annual International Conference on Mobile Computing and Networking **(MobiCom'24)**
+  
+- ## [A First Look at Networking-Aware LEO Maneuvers](https://dl.acm.org/doi/10.1145/3614204.3616107)
+
+  Wei Zhao, Yuanjie Li, Hewu Li, **Yimei Chen**
+
+  The 1st ACM Workshop on LEO Networking and Communication **(LEO-NET'23)**
+
+- ## [A Case for Stateless Mobile Core Functions in Space](https://dl.acm.org/doi/proceedings/10.1145/3614204)
+
+  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+
+  ACM Turing Award Celebration Conference 2023 **(TURC'23)**
+
+- ## [A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519)
+
+  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qui
+
+  The 29th Annual International Conference on Mobile Computing and Networking **(MobiCom'23)**
+
+- ## [Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility](https://ieeexplore.ieee.org/document/9812903)
+
+  Lixin Liu, Hewu Li, Yuanjie Li, Zeqi Lai, Yangtao Deng, **Yimei Chen**, Wei Liu, Qian Wu
+
+  The 30th International Symposium on Quality of Service **(IWQoS'22)**
+
+  
