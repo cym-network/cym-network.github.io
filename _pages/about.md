@@ -17,7 +17,7 @@ Publications
 
   **Yimei Chen***, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
 
-  The 23rd ACM Workshop on Hot Topics in Networks **(HOTNETS'24)**
+  The 23rd ACM Workshop on Hot Topics in Networks **(HotNets'24)**
 
 - ### [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362)
 
@@ -29,7 +29,7 @@ Publications
   
   Wei Liu, Yuanjie Li, Hewu Li, **Yimei Chen**, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
-  The 45th IEEE Symposium on Security and Privacy (S&P'24).
+  The 45th IEEE Symposium on Security and Privacy **(S&P'24)**.
   
 - ### [A First Look at Networking-Aware LEO Maneuvers](https://dl.acm.org/doi/10.1145/3614204.3616107)
 
@@ -58,6 +58,8 @@ Publications
   
 Teaching Experience
 ======
+- Wireless and Mobile Network Security 2025, THU (AY 2024/2025, Semester 2), Teaching Assistant
+
 - Technical Reading, Writing, and Presentation for Cyberspace Security 2024, THU (AY 2024/2025, Semester 1), Teaching Assistant
   
 - Wireless and Mobile Network Security 2023, THU (AY 2023/2024, Semester 2), Teaching Assistant
