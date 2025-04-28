@@ -43,18 +43,18 @@ To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
 
   The 1st ACM Workshop on LEO Networking and Communication **(LEO-NET'23)**
 
+- ### [A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519)
+
+  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qui
+
+  The 29th Annual International Conference on Mobile Computing and Networking **(MobiCom'23)**
+
 - ### [A Case for Stateless Mobile Core Functions in Space](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233)
 
   Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
   Annual conference of the ACM Special Interest Group on Data Communication **(ACM SIGCOMM'22)**.
   
-
-- ### [A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519)
-
-  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qui
-
-  The 29th Annual International Conference on Mobile Computing and Networking **(MobiCom'23)**
 
 - ### [Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility](https://ieeexplore.ieee.org/document/9812903)
 
