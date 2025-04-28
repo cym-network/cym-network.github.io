@@ -13,6 +13,12 @@ Previously, I received my Bachelor’s degree in Communications Engineering from
 
 Publications
 ======
+- ### [Small-scale LEO Satellite Networking for Global-scale Demands]
+
+Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
+
+To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+
 - ### [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885)
 
   **Yimei Chen***, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
@@ -37,11 +43,12 @@ Publications
 
   The 1st ACM Workshop on LEO Networking and Communication **(LEO-NET'23)**
 
-- ### [A Case for Stateless Mobile Core Functions in Space](https://dl.acm.org/doi/proceedings/10.1145/3614204)
+- ### [A Case for Stateless Mobile Core Functions in Space](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233)
 
   Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
-  ACM Turing Award Celebration Conference 2023 **(TURC'23)**
+  Annual conference of the ACM Special Interest Group on Data Communication **(ACM SIGCOMM'22)**.
+  
 
 - ### [A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519)
 
