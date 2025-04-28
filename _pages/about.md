@@ -13,11 +13,11 @@ Previously, I received my Bachelor’s degree in Communications Engineering from
 
 Publications
 ======
-- ### [Small-scale LEO Satellite Networking for Global-scale Demands]
+- ### Small-scale LEO Satellite Networking for Global-scale Demands
 
-Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
-
-To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+  Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
+  
+  To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
 
 - ### [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885)
 
