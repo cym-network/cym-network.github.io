@@ -13,12 +13,17 @@ Previously, I received my Bachelor’s degree in Communications Engineering from
 
 Publications
 ======
-- ### Small-scale LEO Satellite Networking for Global-scale Demands
+- ### [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525)
 
   Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
   
-  To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+  Annual conference of the ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+- ### [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522)
 
+  Wei Liu, Yuanjie Li, Jingyi Lan, Hewu Li, **Yimei Chen**, Lixin Liu, Jiabo Yang, Xi Long, Li Ouyang, Minghao Tang, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+
+  Annual conference of the ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
+ 
 - ### [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885)
 
   **Yimei Chen***, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
