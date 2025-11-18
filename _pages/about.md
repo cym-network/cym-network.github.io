@@ -78,6 +78,8 @@ Teaching Experience
 
 Selected Honors and Awards
 ======
+- The Second Price Scholarship of Tsinghua University, 2025
+
 - Outstanding Graduate of Beijing, 2022
   
 - Outstanding Graduate of Beijing University of Posts and Telecommunications, 2022
