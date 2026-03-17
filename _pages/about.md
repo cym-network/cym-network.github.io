@@ -18,6 +18,8 @@ Publications
 
   Lixin Liu, Jinyao Zhang, Bijia You, **Yimei Chen**, Jiabo Yang, Yuanjie Li, Hewu Li, Qian Wu, Zeqi Lai, Jun Liu
 
+  New Ideas in Networked Systems **(NINeS'26)**
+
 - ### [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525)
 
   Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
