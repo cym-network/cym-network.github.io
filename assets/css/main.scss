@@ -39,3 +39,273 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* ===== custom redesign ===== */
+
+body {
+  line-height: 1.75;
+}
+
+/* Consolidated page content and responsive width rules */
+.page__content {
+  font-size: 0.95rem; /* slightly larger than 0.9rem for better readability */
+  line-height: 1.8;
+  width: 100%;
+  max-width: 1100px; /* 主宽度，按需改为 1000/1200 等 */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+/* 在较大屏幕上逐步放宽最大宽度以利用更多水平空间 */
+@media (min-width: 1200px) {
+  .page__content {
+    max-width: 1200px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  .page__content {
+    max-width: 1400px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* Override: reduce right-side whitespace */
+.page__content {
+  max-width: 1400px !important;
+  padding-right: 0.5rem !important;
+  padding-left: 1rem !important;
+}
+
+@media (min-width: 1200px) {
+  .page__content {
+    max-width: 1200px !important;
+    padding-right: 1rem !important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .page__content {
+    max-width: 1600px !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+}
+
+/* Consolidated publication/paper styles */
+.paper-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap; /* 保持单行布局，标题与点在同一行 */
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  /* 使用底部分隔线作为条目分隔，最后一项无底线 */
+  border: none;
+  border-left: none;
+  border-radius: 6px;
+  padding: 0.6rem 0.5rem; /* 紧凑内边距 */
+  margin-bottom: 0.5rem;
+  background: transparent;
+  box-shadow: none;
+  gap: 8px;
+  position: relative;
+  transition: none;
+
+  border-bottom: 1px solid #eee; /* 细线分隔 */
+}
+
+.paper-box:last-child {
+  border-bottom: none;
+}
+
+.paper-box-image {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  order: 2;
+}
+
+.paper-box-image img {
+  max-width: 400px;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover;
+}
+
+.paper-box-text {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  line-height: 1.4 !important;
+}
+
+/* 作者信息字体略小，颜色稍淡以区分标题 */
+.paper-authors {
+  font-size: 0.9rem;
+  color: #444;
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+  .paper-box-text {
+    justify-content: left;
+    padding-left: 0.8em !important;
+    font-size: 1.05rem;
+    order: 2;
+  }
+}
+
+.paper-title {
+  font-size: 1rem !important; /* unified title size */
+  line-height: 1.25;
+  margin: 0 0 4px 0 !important;
+  padding: 0 !important;
+
+  /* 使用 flex 布局使标题文字与徽章保持在同一行（在足够宽度时） */
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap; /* 防止 badge 被挤到下一行 */
+}
+
+/* 允许链接在 flex 项中换行，但占据剩余空间 */
+.page__content .paper-title a {
+  flex: 1 1 auto;
+  display: inline;
+  overflow-wrap: anywhere; /* 在必要处断词换行，避免挤出 badge */
+  word-break: break-word;
+  text-decoration: none !important; /* 去掉下划线 */
+  color: #53ACC7; /* 论文标题主题色 */
+  transition: color 160ms ease;
+}
+
+.page__content .paper-title a:hover {
+  color: #2b4e86; /* hover 时加深颜色 */
+  text-decoration: none !important;
+}
+
+/* badge 不随标题收缩，保持在行末 */
+.paper-badge {
+  flex-shrink: 0;
+  white-space: nowrap; /* 保持 badge 内容不换行 */
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: white;
+  background: #2D4356;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 0;
+  vertical-align: 0.25em;
+}
+
+.badge {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: .5em;
+  margin-left: -.5em;
+  color: white;
+  background-color: #A4A4A4;
+  font-size: .8em;
+}
+
+/* Ensure left padding/margins are reset for paper elements */
+.paper-box,
+.paper-box .paper-box-text,
+.paper-box .paper-title,
+.paper-box .paper-authors {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Two-column justification handling kept minimal here; links/badges remain inline */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content .paper-box-text,
+.page__content .paper-title,
+.page__content .paper-authors,
+.page__content .archive__item-title {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  -moz-hyphens: auto !important;
+  -webkit-hyphens: auto !important;
+  hyphens: auto !important;
+}
+
+.page__content .paper-badge,
+.page__content a,
+.page__content .badge {
+  text-align: left !important;
+  display: inline-block !important;
+}
+
+
+
+/* Teaching Experience — timeline-style list */
+.teaching-list {
+  list-style: none;
+  padding-left: 1.25rem;
+  margin-left: 0;
+  position: relative;
+  padding-top: 0.25rem;
+  padding-bottom: 0.5rem;
+}
+.teaching-list::before {
+  /* 竖线作为时间轴 */
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: #f1f6fb;
+  border-radius: 2px;
+}
+.teaching-list li {
+  position: relative;
+  padding: 0.45rem 0 0.45rem 1.25rem;
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.35;
+  color: #111;
+}
+.teaching-list li::before {
+  /* 小圆点 */
+  content: "";
+  position: absolute;
+  left: 0.125rem; /* 对齐到竖线中心 */
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  background: #3D74B6;
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px rgba(61,116,182,0.06);
+}
+.teaching-list li .teaching-meta {
+  display: block;
+  color: #6b6b6b;
+  font-size: 0.88rem;
+  margin-top: 0.12rem;
+}
+
+@media (max-width: 600px) {
+  .teaching-list { padding-left: 1rem }
+  .teaching-list::before { left: 6px }
+  .teaching-list li::before { left: 0.25rem; width: 7px; height: 7px }
+  .teaching-list li { padding-left: 1rem; font-size: 0.96rem }
+}
+
+

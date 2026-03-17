@@ -6,72 +6,155 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in the Institute of Network Science and Cyberspace at Tsinghua University, advised by [Prof. Yuanjie Li](http://www.yuanjiel.com/). My research interests include **satellite networks** and **mobile networks**. Previously, I received my Bachelor’s degree in Communications Engineering from Beijing University of Posts and Telecommunications(BUPT).
+
+I am a Ph.D. student in the Institute of Network Science and Cyberspace at Tsinghua University, advised by [Prof. Yuanjie Li](http://www.yuanjiel.com/). My research interests include **satellite networks** and **mobile networks**. Previously, I received my Bachelor’s degree in Communications Engineering from Beijing University of Posts and Telecommunications.
 
 I am actively seeking job opportunities in both **academia and industry** starting in **2027**. If my research and background align with your interests, I’d be delighted to connect. Feel free to email me at chenyime22 [at] mails.tsinghua.edu.cn.
 
 Publications
 ======
-- ### [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/)
 
-  Lixin Liu, Jinyao Zhang, Bijia You, **Yimei Chen**, Jiabo Yang, Yuanjie Li, Hewu Li, Qian Wu, Zeqi Lai, Jun Liu
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://nines-conference.org/" target="_blank">
+      CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals
+      </a>
+      <span class="paper-badge">NINeS'26</span>
+    </div>
+    <div class="paper-authors">
+      Lixin Liu, Jinyao Zhang, Bijia You, <strong>Yimei Chen</strong>, Jiabo Yang, Yuanjie Li, Hewu Li, Qian Wu, Zeqi Lai, Jun Liu
+    </div>
+  </div>
+</div>
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3718958.3750525" target="_blank">
+      Small-scale LEO Satellite Networking for Global-scale Demands
+      </a>
+      <span class="paper-badge">SIGCOMM'25</span>
+    </div>
+    <div class="paper-authors">
+     Yuanjie Li, <strong>Yimei Chen</strong>, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
+    </div>
+  </div>
+</div>
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3718958.3750522" target="_blank">
+      Direct-to-Cell Satellite Network without Satellite Navigation
+      </a>
+      <span class="paper-badge">SIGCOMM'25</span>
+    </div>
+    <div class="paper-authors">
+      Wei Liu, Yuanjie Li, Jingyi Lan, Hewu Li, <strong>Yimei Chen</strong>, Lixin Liu, Jiabo Yang, Xi Long, Li Ouyang, Minghao Tang, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+    </div>
+  </div>
+</div>
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3696348.3696885" target="_blank">
+      Unraveling Physical Space Limits for LEO Network Scalability
+      </a>
+      <span class="paper-badge">HotNets'24</span>
+    </div>
+    <div class="paper-authors">
+      <strong>Yimei Chen*</strong>, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
+    </div>
+  </div>
+</div>
 
-  New Ideas in Networked Systems **(NINeS'26)**
 
-- ### [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525)
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3636534.3649362" target="_blank">
+      Stable Hierarchical Routing for Operational LEO Networks
+      </a>
+      <span class="paper-badge">MobiCom'24</span>
+    </div>
+    <div class="paper-authors">
+      Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, <strong>Yimei Chen</strong>, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+    </div>
+  </div>
+</div>
 
-  Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
-  
-  Annual conference of the ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
-- ### [Direct-to-Cell Satellite Network without Satellite Navigation](https://dl.acm.org/doi/10.1145/3718958.3750522)
 
-  Wei Liu, Yuanjie Li, Jingyi Lan, Hewu Li, **Yimei Chen**, Lixin Liu, Jiabo Yang, Xi Long, Li Ouyang, Minghao Tang, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA" target="_blank">
+      The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations
+      </a>
+      <span class="paper-badge">S&amp;P'24</span>
+    </div>
+    <div class="paper-authors">
+      Wei Liu, Yuanjie Li, Hewu Li, <strong>Yimei Chen</strong>, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+    </div>
+  </div>
+</div>
 
-  Annual conference of the ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
- 
-- ### [Unraveling Physical Space Limits for LEO Network Scalability](https://dl.acm.org/doi/abs/10.1145/3696348.3696885)
 
-  **Yimei Chen***, Lixin Liu*, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, Zeqi Lai
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3614204.3616107" target="_blank">
+      A First Look at Networking-Aware LEO Maneuvers
+      </a>
+      <span class="paper-badge">LEO-NET'23</span>
+    </div>
+    <div class="paper-authors">
+      Wei Zhao, Yuanjie Li, Hewu Li, <strong>Yimei Chen</strong>
+    </div>
+  </div>
+</div>
 
-  The 23rd ACM Workshop on Hot Topics in Networks **(HotNets'24)**
 
-- ### [Stable Hierarchical Routing for Operational LEO Networks](https://dl.acm.org/doi/10.1145/3636534.3649362)
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/10.1145/3570361.3592519" target="_blank">
+      A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation
+      </a>
+      <span class="paper-badge">MobiCom'23</span>
+    </div>
+    <div class="paper-authors">
+      Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, <strong>Yimei Chen</strong>, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qiu
+    </div>
+  </div>
+</div>
 
-  Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, **Yimei Chen**, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
-  The 30th Annual International Conference on Mobile Computing and Networking **(MobiCom'24)**
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3544216.3544233" target="_blank">
+      A Case for Stateless Mobile Core Functions in Space
+      </a>
+      <span class="paper-badge">SIGCOMM'22</span>
+    </div>
+    <div class="paper-authors">
+      Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, <strong>Yimei Chen</strong>, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
+    </div>
+  </div>
+</div>
 
-- ### [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a149/1Ub246TR9EA)
-  
-  Wei Liu, Yuanjie Li, Hewu Li, **Yimei Chen**, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
 
-  The 45th IEEE Symposium on Security and Privacy **(S&P'24)**.
-  
-- ### [A First Look at Networking-Aware LEO Maneuvers](https://dl.acm.org/doi/10.1145/3614204.3616107)
-
-  Wei Zhao, Yuanjie Li, Hewu Li, **Yimei Chen**
-
-  The 1st ACM Workshop on LEO Networking and Communication **(LEO-NET'23)**
-
-- ### [A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation](https://dl.acm.org/doi/10.1145/3570361.3592519)
-
-  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, Han Qui
-
-  The 29th Annual International Conference on Mobile Computing and Networking **(MobiCom'23)**
-
-- ### [A Case for Stateless Mobile Core Functions in Space](https://dl.acm.org/doi/pdf/10.1145/3544216.3544233)
-
-  Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, **Yimei Chen**, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai
-
-  Annual conference of the ACM Special Interest Group on Data Communication **(ACM SIGCOMM'22)**.
-  
-
-- ### [Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility](https://ieeexplore.ieee.org/document/9812903)
-
-  Lixin Liu, Hewu Li, Yuanjie Li, Zeqi Lai, Yangtao Deng, **Yimei Chen**, Wei Liu, Qian Wu
-
-  The 30th International Symposium on Quality of Service **(IWQoS'22)**
-
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="paper-title">
+      <a href="https://ieeexplore.ieee.org/document/9812903" target="_blank">
+      Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility</a>
+      <span class="paper-badge">IWQoS'22</span>
+    </div>
+    <div class="paper-authors">
+      Lixin Liu, Hewu Li, Yuanjie Li, Zeqi Lai, Yangtao Deng, <strong>Yimei Chen</strong>, Wei Liu, Qian Wu
+    </div>
+  </div>
+</div>
   
 Academic Services
 ======
@@ -99,4 +182,5 @@ Selected Honors and Awards
 
 - National Scholarship, 2019
 
-  
+
+
