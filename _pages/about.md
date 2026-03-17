@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in the Institute of Network Science and Cyberspace at Tsinghua University, advised by [Prof. Yuanjie Li](http://www.yuanjiel.com/). My research interests include satellite networks and mobile networks.
+I am a Ph.D. student in the Institute of Network Science and Cyberspace at Tsinghua University, advised by [Prof. Yuanjie Li](http://www.yuanjiel.com/). My research interests include **satellite networks** and **mobile networks**. Previously, I received my Bachelor’s degree in Communications Engineering from Beijing University of Posts and Telecommunications(BUPT).
 
-Previously, I received my Bachelor’s degree in Communications Engineering from Beijing University of Posts and Telecommunications.
-
-I am actively seeking job opportunities in both [academia and industry] starting in 2027. If my research and background align with your interests, I’d be delighted to connect. Feel free to email me at chenyime22 [at] mails.tsinghua.edu.cn.
+I am actively seeking job opportunities in both **academia and industry** starting in **2027**. If my research and background align with your interests, I’d be delighted to connect. Feel free to email me at chenyime22 [at] mails.tsinghua.edu.cn.
 
 Publications
 ======
