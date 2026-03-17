@@ -10,9 +10,14 @@ I am a Ph.D. student in the Institute of Network Science and Cyberspace at Tsing
 
 Previously, I received my Bachelor’s degree in Communications Engineering from Beijing University of Posts and Telecommunications.
 
+I am actively seeking job opportunities in both [academia and industry] starting in 2027. If my research and background align with your interests, I’d be delighted to connect. Feel free to email me at chenyime22 [at] mails.tsinghua.edu.cn.
 
 Publications
 ======
+- ### [CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals](https://nines-conference.org/)
+
+  Lixin Liu, Jinyao Zhang, Bijia You, **Yimei Chen**, Jiabo Yang, Yuanjie Li, Hewu Li, Qian Wu, Zeqi Lai, Jun Liu
+
 - ### [Small-scale LEO Satellite Networking for Global-scale Demands](https://dl.acm.org/doi/10.1145/3718958.3750525)
 
   Yuanjie Li, **Yimei Chen**, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
@@ -71,6 +76,7 @@ Publications
 Academic Services
 ======
 - Program Committee for [SIGCOMM 2025 Artifact Evaluationn](https://conferences.sigcomm.org/sigcomm/2025/cf-artifacts/)
+- IEEE TMC’s reviewer
 
 
 Teaching Experience
