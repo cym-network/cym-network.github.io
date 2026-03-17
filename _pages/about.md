@@ -164,11 +164,21 @@ Academic Services
 
 Teaching Experience
 ======
-- Wireless and Mobile Network Security 2025, THU (AY 2024/2025, Semester 2), Teaching Assistant
 
-- Technical Reading, Writing, and Presentation for Cyberspace Security 2024, THU (AY 2024/2025, Semester 1), Teaching Assistant
-  
-- Wireless and Mobile Network Security 2023, THU (AY 2023/2024, Semester 2), Teaching Assistant
+<ul class="teaching-list">
+  <li>
+    Wireless and Mobile Network Security 2025, THU
+    <span class="teaching-meta">AY 2024/2025, Semester 2 — Teaching Assistant</span>
+  </li>
+  <li>
+    Technical Reading, Writing, and Presentation for Cyberspace Security 2024, THU
+    <span class="teaching-meta">AY 2024/2025, Semester 1 — Teaching Assistant</span>
+  </li>
+  <li>
+    Wireless and Mobile Network Security 2023, THU
+    <span class="teaching-meta">AY 2023/2024, Semester 2 — Teaching Assistant</span>
+  </li>
+</ul>
 
 Selected Honors and Awards
 ======
