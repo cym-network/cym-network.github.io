@@ -175,7 +175,7 @@ Teaching Experience
     <span class="teaching-meta">AY 2024/2025, Semester 1 — Teaching Assistant</span>
   </li>
   <li>
-    Wireless and Mobile Network Security 2023, THU
+    Wireless and Mobile Network Security 2024, THU
     <span class="teaching-meta">AY 2023/2024, Semester 2 — Teaching Assistant</span>
   </li>
 </ul>
