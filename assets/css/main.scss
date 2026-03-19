@@ -153,6 +153,63 @@ body {
   line-height: 1.4;
 }
 
+/* Publication artifacts (website, code, etc.) styling - compact to match paper-badge height */
+.paper-artifacts {
+  margin-top: 0.3rem; /* 更紧凑的顶部间距 */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem; /* 缩小间距 */
+  align-items: center;
+}
+
+.artifact-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.65rem; /* 与 .paper-badge 一致 */
+  font-weight: 600;
+  /* 使用固色背景，接近 badge */
+  background: #967AA1; /* 固色背景 */
+  color: #ffffff; /* 更和谐的深色字体 */
+  padding: 2px 6px; /* 与 .paper-badge 垂直内边距一致 */
+  border-radius: 4px; /* 与 .paper-badge 一致 */
+  border: 1px solid rgba(45,67,86,0.08);
+  box-shadow: none; /* 更简洁 */
+  text-decoration: none !important; /* 确保没有下划线 */
+  transition: background 120ms ease, color 120ms ease, transform 120ms ease;
+}
+
+.artifact-link .icon {
+  display: inline-flex;
+  width: 12px; /* 比 badge 小图标 */
+  height: 12px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  background: #3D74B6; /* 使用主题色填充图标区域 */
+  color: #ffffff;
+  font-size: 0.65rem; /* 与文案字号匹配 */
+  line-height: 1;
+}
+
+.artifact-link:hover {
+  transform: translateY(-1px);
+  background: #2D4356; /* 悬停时使用深色背景以保证对比 */
+  color: #ffffff;
+  border-color: transparent;
+}
+
+.artifact-link:hover .icon {
+  background: rgba(255,255,255,0.18);
+  color: #ffffff;
+}
+
+/* compact on small screens */
+@media (max-width: 480px) {
+  .artifact-link { padding: 1px 5px; font-size: 0.62rem; }
+  .artifact-link .icon { width: 11px; height: 11px; font-size: 0.62rem; }
+}
+
 @media (min-width: 768px) {
   .paper-box-text {
     justify-content: left;
